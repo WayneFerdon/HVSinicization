@@ -12,6 +12,7 @@
 // @homepage https://github.com/WayneFerdon/HVSinicization
 // @downloadURL https://github.com/WayneFerdon/HVSinicization/raw/refs/heads/main/HVSinicization.user.js
 // @updateURL https://github.com/WayneFerdon/HVSinicization/raw/refs/heads/main/HVSinicization.user.js
+// @noframes
 // ==/UserScript==
 
 // 隐藏原先的战斗 log
