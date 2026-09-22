@@ -7,6 +7,8 @@
 // @author       qp_xe & indefined & 1235789gzy1 & mbbdzz
 // @include      *://hentaiverse.org/*
 // @include      *://alt.hentaiverse.org/*
+// @exclude        *://*hentaiverse.org/*/y/*
+// @exclude        *://*hentaiverse.org/*/z/*
 // @grant        GM_addStyle
 // @grant        unsafeWindow
 // @homepage https://github.com/WayneFerdon/HVSinicization
